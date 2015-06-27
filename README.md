@@ -1,6 +1,6 @@
 # Presentations
 
-## Automated Visual Regresstion Testing
+## Automated Visual Regression Testing
 [http://slides.com/davidcole1977/deck-2#/](http://slides.com/davidcole1977/deck-2#/)
 
 ## Scotland JS Web Audio Hack Day 2015
